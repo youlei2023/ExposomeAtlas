@@ -18,9 +18,9 @@ Example file:
 Code: ExposomeAtlas/code/PCA.R  
 Example file: ExposomeAtlas/example/PCA.xlsx  
 Result figure: ExposomeAtlas/figure/ Result figure 1_PCA.tif  
-<div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
+<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/Figure%201.tif"/></div>
 <h4 align="center">
- 
+
 ### R package "MatchIt" for Propensity Score Matching  
 Code: ExposomeAtlas/code/PSM.R  
 Example file: ExposomeAtlas/example/hyperlipidemiaControl.xlsx 
@@ -38,7 +38,7 @@ Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx
 Result figure: ExposomeAtlas/figure/ Result figure 3_ WQS.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### R package " q g-comp " for quantile g-computation of mixture effect analysis  
 Code: ExposomeAtlas/code/qg-comp.R  
 Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx  
@@ -60,14 +60,14 @@ Example file: ExposomeAtlas/example/sunburst_267chemicals.csv
 Result figure: ExposomeAtlas/figure/ Result figure 6_ sunburst plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### bar plot  
 Code: ExposomeAtlas/code/bar_plot.R  
 Example file: ExposomeAtlas/example/Variation_Proportion.csv  
 Result figure: ExposomeAtlas/figure/ Result figure 7_ bar plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### stacked bar plot (flip)  
 Code: ExposomeAtlas/code/stacked_bar_plot(flip).R  
 Example file: ExposomeAtlas/example/location_74_15provience.csv  
@@ -81,7 +81,7 @@ Example file: ExposomeAtlas/example/age_increase.xlsx
 Result figure: ExposomeAtlas/figure/ Result figure 9_ line & point & error bar plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### split violin plot  
 Code: ExposomeAtlas/code/split_violin_plot.R  
 Example file: ExposomeAtlas/example/gender_beta.HCH.xlsx  
@@ -102,14 +102,14 @@ Example file: ExposomeAtlas/example/hyperlipidemia_OR_log10.csv
 Result figure: ExposomeAtlas/figure/ Result figure 12_ forest plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### stacked bar plot  
 Code: ExposomeAtlas/code/stack_bar_plot.R  
 Example file: ExposomeAtlas/example/9clinicinfo.csv  
 Result figure: ExposomeAtlas/figure/ Result figure 13_ stacked bar plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### heatmap  
 Code: ExposomeAtlas/code/heatmap&significant.R  
 Example file:  
@@ -118,13 +118,13 @@ Example file:
 Result figure: ExposomeAtlas/figure/ Result figure 14_ heatmap.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ### jitter plot  
 Code: ExposomeAtlas/code/jitter_plot.R  
 Example file: ExposomeAtlas/example/BE&HMB2&BGV.csv  
 Result figure: ExposomeAtlas/figure/ Result figure 15_ jitter plot.tif  
 <div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
 <h4 align="center">
- 
+
 ## Author
 You Lei (youlei@dicp.ac.cn)
