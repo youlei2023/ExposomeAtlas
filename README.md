@@ -87,19 +87,21 @@ Result figure: ExposomeAtlas/figure/ResultFigure_7_bar_plot.png
 ### stacked bar plot (flip)  
 Code: ExposomeAtlas/code/stacked_bar_plot(flip).R  
 Example file: ExposomeAtlas/example/location_74_15provience.csv  
-Result figure: ExposomeAtlas/figure/ResultFigure 8_stacked_bar_plot_flip.png  
+Result figure: ExposomeAtlas/figure/ResultFigure_8_stacked_bar_plot_flip.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure 8_stacked_bar_plot_flip.png"/></div>
+<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_8_stacked_bar_plot_flip.png"/></div>
 <h4 align="center">
+
 
 
 ### line & point & error bar plot  
 Code: ExposomeAtlas/code/point&line&errorbar_plot.R  
 Example file: ExposomeAtlas/example/age_increase.xlsx  
-Result figure: ExposomeAtlas/figure/ResultFigure 9_line&point&errorbar_plot.png  
+Result figure: ExposomeAtlas/figure/ResultFigure_9_line&point&errorbar_plot.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure 9_line&point&errorbar_plot.png"/></div>
+<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_9_line&point&errorbar_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### split violin plot  
