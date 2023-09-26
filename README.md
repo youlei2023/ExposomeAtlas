@@ -21,8 +21,9 @@ Code: ExposomeAtlas/code/PCA.R
 Example file: ExposomeAtlas/example/PCA.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_1_PCA.png
 
-<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_1_PCA.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_1_PCA.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -45,8 +46,9 @@ Code: ExposomeAtlas/code/WQS.R
 Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_3_WQS.png  
 
-<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_3_WQS.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_3_WQS.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -55,8 +57,9 @@ Code: ExposomeAtlas/code/qg-comp.R
 Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_4_qg-comp.png  
 
-<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_4_qg-comp.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_4_qg-comp.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -85,8 +88,9 @@ Code: ExposomeAtlas/code/bar_plot.R
 Example file: ExposomeAtlas/example/Variation_Proportion.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_7_bar_plot.png 
 
-<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_7_bar_plot.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_7_bar_plot.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -168,7 +172,7 @@ Code: ExposomeAtlas/code/jitter_plot.R
 Example file: ExposomeAtlas/example/BE&HMB2&BGV.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_15_ jitter_plot.png  
 
-<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_15_ jitter_plot.png  "/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_15_ jitter_plot.png  "/></div>
 <h4 align="center">
 
 
