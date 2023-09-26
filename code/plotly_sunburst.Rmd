@@ -1,0 +1,28 @@
+```{r}
+library(plotly)
+
+# library(reticulate)
+# reticulate::install_miniconda(path = "D:/Programs/miniconda3")
+# reticulate::miniconda_path()
+# Sys.setenv(RETICULATE_MINICONDA_PATH = "D:/Programs/miniconda3")
+
+SunburstFile <- read.csv(file = "path/sunburst_267chemicals.csv")
+
+fig <- plot_ly(
+  labels = SunburstFile$labels,
+  parents = SunburstFile$parents,
+  values = SunburstFile$values,
+  type = 'sunburst',
+
+  branchvalues = 'total'
+)
+fig
+```
+
+```{python}
+import sys
+```
+
+```{r}
+plotly::save_image(fig, file = "path/sunburst_267chemicals.pdf")
+```

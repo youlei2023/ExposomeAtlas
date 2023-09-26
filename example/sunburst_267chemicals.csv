@@ -1,0 +1,26 @@
+labels,parents,values
+GC-MS,,97
+LC-MS,,170
+pesticidesGC,GC-MS,59
+pollutantsGC,GC-MS,38
+fungicides1,pesticidesGC,4
+organochlorine,pesticidesGC,28
+organophosphorus,pesticidesGC,13
+pyrethroid,pesticidesGC,9
+orher pesticides,pesticidesGC,5
+BDEs,pollutantsGC,7
+PAHs,pollutantsGC,12
+PCBs,pollutantsGC,19
+drugs,LC-MS,46
+pesticidesLC,LC-MS,79
+pollutantsLC,LC-MS,45
+veterinary drugs,drugs,28
+other drugs,drugs,18
+fungicides,pesticidesLC,22
+herbicides,pesticidesLC,25
+insecticides,pesticidesLC,16
+other pesticides,pesticidesLC,16
+PFASs,pollutantsLC,18
+phenols,pollutantsLC,10
+UV absorbers,pollutantsLC,6
+other pollutants,pollutantsLC,11
