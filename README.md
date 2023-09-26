@@ -3,7 +3,8 @@
 ## Abstract
 Although adverse environmental exposures are considered to be a major cause to chronic diseases, current studies have provided limited knowledge on real-world chemical exposures and related risks. Here, we collected serum samples from 5696 healthy people and patients, including 12 chronic diseases in China, and completed serum biomonitoring containing 267 chemicals using gas and liquid chromatography-tandem mass spectrometry. 74 high-frequently detected exposures were used for exposure characterization and risk analysis. Results showed that region was the most critical factor influencing human exposure levels, followed by age. Organochlorine pesticides and perfluoroalkyl substances were associated with multiple chronic diseases, and some of them exceeded safe ranges. Mixture effect models showed significant risk effects of exposure on hyperlipidemia, metabolic syndrome and hyperuricemia. Overall, this study provided a comprehensive human serum exposure atlas and its disease risk, which could guide subsequent more in-depth cause-and-effect studies between environmental exposures and human health.
 The R codes and related example data for statistical analysis and figure production have been deposited to the GitHub (see website**). 
-<div align=center><img width="800" src="https://github.com/zhengfj1994/ExposomeAtlas/blob/master/screenshots/figure.png"/></div>
+
+<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/Figure%201.png"/></div>
 <h4 align="center">
 Figure. 1 Overview of the study.
 
