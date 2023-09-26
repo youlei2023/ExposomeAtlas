@@ -21,8 +21,9 @@ Code: ExposomeAtlas/code/PCA.R
 Example file: ExposomeAtlas/example/PCA.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_1_PCA.png
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_1_PCA.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_1_PCA.png"/></div>
 <h4 align="center">
+
 
 
 ### R package "MatchIt" for Propensity Score Matching  
@@ -34,17 +35,19 @@ Code: ExposomeAtlas/code/RCS.R
 Example file: ExposomeAtlas/example/hyperuricemia_RCS.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_2_RCS.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_2_RCS.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_2_RCS.png"/></div>
 <h4 align="center">
+
 
 
 ### R package " WQS " for weighted quantile sum regression of mixture effect analysis   
 Code: ExposomeAtlas/code/WQS.R  
 Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx  
-Result figure: ExposomeAtlas/figure/Result figure_3_WQS.png  
+Result figure: ExposomeAtlas/figure/ResultFigure_3_WQS.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/Result figure_3_WQS.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_3_WQS.png"/></div>
 <h4 align="center">
+
 
 
 ### R package " q g-comp " for quantile g-computation of mixture effect analysis  
@@ -52,8 +55,9 @@ Code: ExposomeAtlas/code/qg-comp.R
 Example file: ExposomeAtlas/example/hyperuricemia_mixture_effect.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_4_qg-comp.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_4_qg-comp.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_4_qg-comp.png"/></div>
 <h4 align="center">
+
 
 
 ### R package " BKMR " for Bayesian Kernel Machine Regression of mixture effect analysis  
@@ -71,8 +75,9 @@ Code: ExposomeAtlas/code/plotly_sunburst.Rmd
 Example file: ExposomeAtlas/example/sunburst_267chemicals.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_6_sunburst_plot.png 
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_6_sunburst_plot.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_6_sunburst_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### bar plot  
@@ -80,8 +85,9 @@ Code: ExposomeAtlas/code/bar_plot.R
 Example file: ExposomeAtlas/example/Variation_Proportion.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_7_bar_plot.png 
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_7_bar_plot.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_7_bar_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### stacked bar plot (flip)  
@@ -89,8 +95,9 @@ Code: ExposomeAtlas/code/stacked_bar_plot(flip).R
 Example file: ExposomeAtlas/example/location_74_15provience.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_8_stacked_bar_plot_flip.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_8_stacked_bar_plot_flip.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_8_stacked_bar_plot_flip.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -99,8 +106,9 @@ Code: ExposomeAtlas/code/point&line&errorbar_plot.R
 Example file: ExposomeAtlas/example/age_increase.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_9_line&point&errorbar_plot.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_9_line&point&errorbar_plot.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_9_line&point&errorbar_plot.png"/></div>
 <h4 align="center">
+
 
 
 
@@ -109,8 +117,9 @@ Code: ExposomeAtlas/code/split_violin_plot.R
 Example file: ExposomeAtlas/example/gender_beta.HCH.xlsx  
 Result figure: ExposomeAtlas/figure/ResultFigure_10_split_violin_plot.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_10_split_violin_plot.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_10_split_violin_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### violin & box plot  
@@ -118,8 +127,9 @@ Code: ExposomeAtlas/code/Violin&Box_plot.R
 Example file: ExposomeAtlas/example/clinic_info_uricAcid.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_11_violin&box_plot.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_11_violin&box_plot.png"/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_11_violin&box_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### forest plot  
@@ -127,8 +137,9 @@ Code: ExposomeAtlas/code/forestplot_range.R
 Example file: ExposomeAtlas/example/hyperlipidemia_OR_log10.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_12_forest_plot.png 
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_12_forest_plot.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_12_forest_plot.png"/></div>
 <h4 align="center">
+
 
 
 ### stacked bar plot  
@@ -147,8 +158,9 @@ Example file:
 &emsp;ExposomeAtlas/example/hyperlipidemia_age_p.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_14_heatmap.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_14_heatmap.png"/></div>
+<div align=center><img width="400" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_14_heatmap.png"/></div>
 <h4 align="center">
+
 
 
 ### jitter plot  
@@ -156,8 +168,9 @@ Code: ExposomeAtlas/code/jitter_plot.R
 Example file: ExposomeAtlas/example/BE&HMB2&BGV.csv  
 Result figure: ExposomeAtlas/figure/ResultFigure_15_ jitter_plot.png  
 
-<div align=center><img width="800" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_15_ jitter_plot.png  "/></div>
+<div align=center><img width="200" src="https://github.com/youlei2023/ExposomeAtlas/blob/master/figure/ResultFigure_15_ jitter_plot.png  "/></div>
 <h4 align="center">
+
 
 
 ## Author
